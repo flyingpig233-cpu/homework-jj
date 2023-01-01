@@ -4,10 +4,10 @@ variant: default
 head:
     # favicon: /img/favicon.svg
     manifest:
-        name: 
-        short_name: 
+        name: 2班展示
+        short_name: 2班展示
         start_url: 
-        theme_color: 
+        theme_color:
         background_color: 
         display: standalone
         icons:
@@ -118,8 +118,8 @@ widgets:
         position: left
         type: profile
         author: 九（2）班
-        author_title: 标题测试
-        location: 江西 上饶
+        author_title: 展示
+        location: 广信七中
         avatar: 
         avatar_rounded: false
         gravatar: 
