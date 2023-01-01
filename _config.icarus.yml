@@ -113,16 +113,16 @@ sidebar:
         sticky: false
     right:
         sticky: false
-widgets:
-    -
-        position: left
-        type: profile
-        author: 九（2）班
-        author_title: 庆元旦
-        location: 广信七中
-        avatar: 
-        avatar_rounded: false
-        gravatar: 
+# widgets:
+    # -
+    #     position: left
+    #     type: profile
+    #     author: 九（2）班
+    #     author_title: 庆元旦
+    #     location: 广信七中
+    #     avatar: 
+    #     avatar_rounded: false
+    #     gravatar: 
         # follow_link: https://github.com/ppoffice
         # social_links:
         #     Github:
@@ -140,12 +140,12 @@ widgets:
         #     RSS:
         #         icon: fas fa-rss
         #         url: /
-    -
-        position: left
-        type: toc
-        index: true
-        collapsed: true
-        depth: 3
+    # -
+    #     position: left
+    #     type: toc
+    #     index: true
+    #     collapsed: true
+    #     depth: 3
     # -
     #     position: left
     #     type: links
